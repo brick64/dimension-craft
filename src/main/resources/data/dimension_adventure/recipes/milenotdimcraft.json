@@ -1,0 +1,42 @@
+{
+  "group": "dimension_adventure",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "dimension_adventure:milenitingot"
+    },
+    "1": {
+      "item": "minecraft:diamond_block"
+    },
+    "2": {
+      "item": "dimension_adventure:milenitingot"
+    },
+    "3": {
+      "item": "minecraft:redstone_block"
+    },
+    "4": {
+      "item": "minecraft:nether_star"
+    },
+    "5": {
+      "item": "minecraft:lapis_block"
+    },
+    "6": {
+      "item": "dimension_adventure:milenitingot"
+    },
+    "7": {
+      "item": "minecraft:gold_block"
+    },
+    "8": {
+      "item": "dimension_adventure:milenitingot"
+    }
+  },
+  "result": {
+    "item": "dimension_adventure:milenotdimension",
+    "count": 1
+  }
+}

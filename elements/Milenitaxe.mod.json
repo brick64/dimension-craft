@@ -1,0 +1,30 @@
+{
+  "_fv": 10,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "milenit_axe",
+    "customModelName": "Normal",
+    "name": "Milenitaxe",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:DA"
+    },
+    "toolType": "Axe",
+    "harvestLevel": 1,
+    "efficiency": 9.0,
+    "attackSpeed": 0.9,
+    "enchantability": 20,
+    "damageVsEntity": 9.0,
+    "usageCount": 1725,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:Milenitingot"
+      }
+    ],
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

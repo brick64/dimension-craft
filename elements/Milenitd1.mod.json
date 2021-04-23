@@ -1,0 +1,48 @@
+{
+  "_fv": 10,
+  "_type": "loottable",
+  "definition": {
+    "type": "Chest",
+    "pools": [
+      {
+        "minrolls": 1,
+        "maxrolls": 8,
+        "minbonusrolls": 1,
+        "maxbonusrolls": 6,
+        "hasbonusrolls": false,
+        "entries": [
+          {
+            "type": "item",
+            "item": {
+              "value": "CUSTOM:Milenitingot"
+            },
+            "weight": 15
+          },
+          {
+            "type": "item",
+            "item": {
+              "value": "CUSTOM:Milenitbricks"
+            },
+            "weight": 30
+          },
+          {
+            "type": "item",
+            "item": {
+              "value": "CUSTOM:Milenotwood"
+            },
+            "weight": 60
+          },
+          {
+            "type": "item",
+            "item": {
+              "value": "CUSTOM:Milenitblock"
+            },
+            "weight": 5
+          }
+        ]
+      }
+    ],
+    "name": "chests/milenit_d_1",
+    "namespace": "minecraft"
+  }
+}

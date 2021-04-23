@@ -1,0 +1,42 @@
+{
+  "group": "dimension_adventure",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "dimension_adventure:milenitingot"
+    },
+    "1": {
+      "item": "dimension_adventure:milenitingot"
+    },
+    "2": {
+      "item": "dimension_adventure:milenitingot"
+    },
+    "3": {
+      "item": "dimension_adventure:milenitingot"
+    },
+    "4": {
+      "item": "dimension_adventure:milenitingot"
+    },
+    "5": {
+      "item": "dimension_adventure:milenitingot"
+    },
+    "6": {
+      "item": "dimension_adventure:milenitingot"
+    },
+    "7": {
+      "item": "dimension_adventure:milenitingot"
+    },
+    "8": {
+      "item": "dimension_adventure:milenitingot"
+    }
+  },
+  "result": {
+    "item": "dimension_adventure:milenitblock",
+    "count": 1
+  }
+}

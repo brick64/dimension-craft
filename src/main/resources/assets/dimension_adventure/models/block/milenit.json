@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "dimension_adventure:blocks/milenit_ore",
+    "up": "dimension_adventure:blocks/milenit_ore",
+    "north": "dimension_adventure:blocks/milenit_ore",
+    "east": "dimension_adventure:blocks/milenit_ore",
+    "south": "dimension_adventure:blocks/milenit_ore",
+    "west": "dimension_adventure:blocks/milenit_ore",
+    "particle": "dimension_adventure:blocks/milenit_ore"
+  }
+}

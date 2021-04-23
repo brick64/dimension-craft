@@ -1,0 +1,30 @@
+{
+  "group": "dimension_adventure",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "dimension_adventure:milenitingot"
+    },
+    "1": {
+      "item": "dimension_adventure:milenitingot"
+    },
+    "2": {
+      "item": "dimension_adventure:milenitingot"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "7": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "dimension_adventure:milenitpicaxe",
+    "count": 1
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:chest",
+  "pools": [
+    {
+      "rolls": {
+        "min": 1,
+        "max": 8
+      },
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "dimension_adventure:milenitingot",
+          "weight": 15
+        },
+        {
+          "type": "minecraft:item",
+          "name": "dimension_adventure:milenitbricks",
+          "weight": 30
+        },
+        {
+          "type": "minecraft:item",
+          "name": "dimension_adventure:milenotwood",
+          "weight": 60
+        },
+        {
+          "type": "minecraft:item",
+          "name": "dimension_adventure:milenitblock",
+          "weight": 5
+        }
+      ]
+    }
+  ]
+}

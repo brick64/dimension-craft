@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "dimension_adventure:block/milenotdimension_portal_ew"
+    },
+    "axis=x": {
+      "model": "dimension_adventure:block/milenotdimension_portal_ns"
+    }
+  }
+}

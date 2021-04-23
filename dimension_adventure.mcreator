@@ -1,0 +1,248 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "Milenitingot",
+      "type": "item",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "milenitingot"
+    },
+    {
+      "name": "Milenit",
+      "type": "block",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "milenit"
+    },
+    {
+      "name": "Milenitingotrecipe",
+      "type": "recipe",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "milenitingotrecipe"
+    },
+    {
+      "name": "Milenitblock",
+      "type": "block",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "milenitblock"
+    },
+    {
+      "name": "MilenitSword",
+      "type": "tool",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "milenit_sword"
+    },
+    {
+      "name": "Milenitpicaxe",
+      "type": "tool",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "milenitpicaxe"
+    },
+    {
+      "name": "Milenotgrass",
+      "type": "block",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "milenotgrass"
+    },
+    {
+      "name": "Milenotblockrecipe",
+      "type": "recipe",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "milenotblockrecipe"
+    },
+    {
+      "name": "Milenotingotuncraftblock",
+      "type": "recipe",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "milenotingotuncraftblock"
+    },
+    {
+      "name": "Milenotdirt",
+      "type": "block",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "milenotdirt"
+    },
+    {
+      "name": "Milenotbiome",
+      "type": "biome",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "milenotbiome"
+    },
+    {
+      "name": "Milenotdimension",
+      "type": "dimension",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "milenotdimension"
+    },
+    {
+      "name": "Milenitpicaxecraft",
+      "type": "recipe",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "milenitpicaxecraft"
+    },
+    {
+      "name": "Milenitswordcraft",
+      "type": "recipe",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "milenitswordcraft"
+    },
+    {
+      "name": "Milenotdimcraft",
+      "type": "recipe",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "milenotdimcraft"
+    },
+    {
+      "name": "Milenotwood",
+      "type": "block",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "milenotwood"
+    },
+    {
+      "name": "Milenitwood",
+      "type": "structure",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "milenitwood"
+    },
+    {
+      "name": "DA",
+      "type": "tab",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "da"
+    },
+    {
+      "name": "Milenitbricks",
+      "type": "block",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "milenitbricks"
+    },
+    {
+      "name": "Milenitpillar",
+      "type": "block",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "milenitpillar"
+    },
+    {
+      "name": "Milenitd1",
+      "type": "loottable",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "milenitd_1"
+    },
+    {
+      "name": "Milenitlootd1",
+      "type": "structure",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "milenitlootd_1"
+    },
+    {
+      "name": "Milenitaxe",
+      "type": "tool",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "milenitaxe"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "itemGroup.tabda": "DA",
+      "block.dimension_adventure.milenitpillar": "Milenitpillar",
+      "item.dimension_adventure.milenitpicaxe": "Milenit picaxe",
+      "block.dimension_adventure.milenotgrass": "Milenot grass",
+      "block.dimension_adventure.milenotdirt": "Milenot dirt",
+      "block.dimension_adventure.milenit": "Milenit ore",
+      "block.dimension_adventure.milenitblock": "Milenit block",
+      "block.dimension_adventure.milenitbricks": "Milenitbricks",
+      "item.dimension_adventure.milenitaxe": "Milenitaxe",
+      "item.dimension_adventure.milenit_sword": "Milenit Sword",
+      "item.dimension_adventure.milenitingot": "Ingot of milenit",
+      "item.dimension_adventure.milenotdimension": "Star of night",
+      "block.dimension_adventure.milenotwood": "Milenot wood"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "dimension_adventure",
+    "modName": "Dimension adventure",
+    "version": "1.0.0",
+    "author": "Пользователь, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.15.2",
+    "modElementsPackage": "dimension_adventure",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000432115
+}

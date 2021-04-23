@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "dimension_adventure:items/new_milenit_picaxe"
+  }
+}

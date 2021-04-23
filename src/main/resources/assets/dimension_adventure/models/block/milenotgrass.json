@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "dimension_adventure:blocks/milenot_grass_bottom",
+    "up": "dimension_adventure:blocks/milenot_grass_top",
+    "north": "dimension_adventure:blocks/milenot_grass_front",
+    "east": "dimension_adventure:blocks/milenot_grass_front",
+    "south": "dimension_adventure:blocks/milenot_grass_front",
+    "west": "dimension_adventure:blocks/milenot_grass_front",
+    "particle": "dimension_adventure:blocks/milenot_grass_bottom"
+  }
+}

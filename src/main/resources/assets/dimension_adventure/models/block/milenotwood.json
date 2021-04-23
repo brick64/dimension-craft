@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "dimension_adventure:blocks/milenot_wood_top",
+    "up": "dimension_adventure:blocks/milenot_wood_top",
+    "north": "dimension_adventure:blocks/milenot_wood",
+    "east": "dimension_adventure:blocks/milenot_wood",
+    "south": "dimension_adventure:blocks/milenot_wood",
+    "west": "dimension_adventure:blocks/milenot_wood",
+    "particle": "dimension_adventure:blocks/milenot_wood_top"
+  }
+}

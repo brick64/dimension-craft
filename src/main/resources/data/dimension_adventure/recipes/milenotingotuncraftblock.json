@@ -1,0 +1,13 @@
+{
+  "group": "dimension_adventure",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "dimension_adventure:milenitblock"
+    }
+  ],
+  "result": {
+    "item": "dimension_adventure:milenitingot",
+    "count": 9
+  }
+}

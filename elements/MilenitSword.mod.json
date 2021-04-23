@@ -1,0 +1,30 @@
+{
+  "_fv": 10,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "new_milenit_sword",
+    "customModelName": "Normal",
+    "name": "Milenit Sword",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:DA"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 1,
+    "efficiency": 4.0,
+    "attackSpeed": 1.5999999999999999,
+    "enchantability": 3,
+    "damageVsEntity": 7.0,
+    "usageCount": 300,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:Milenitingot"
+      }
+    ],
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}
